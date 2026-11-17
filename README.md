@@ -78,6 +78,8 @@ The dataset contains customer demographics, tenure, subscribed services, contrac
 
 ## Power BI Dashboard
 
+![Telecom Customer Churn Dashboard](dashboard.png)
+
 The dashboard presents:
 - Total Customers
 - Churned Customers
